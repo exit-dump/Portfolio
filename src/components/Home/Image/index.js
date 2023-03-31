@@ -4,7 +4,7 @@ import './index.scss'
 
 function Image() {
   return (
-    <div className='container'>
+    <div className='containero'>
       <img src={LogoM} alt='programmer' className='img' />
     </div>
   )
